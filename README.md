@@ -72,6 +72,8 @@ int main (){
     return 0;
 }
 ```
+![91](https://github.com/user-attachments/assets/62e1ffec-20a2-4896-a710-d860c3af3cd8)
+
 9B : Code 
 ```
 #include <iostream>
@@ -95,6 +97,8 @@ int main () {
   return 0;
 }
 ```
+![92](https://github.com/user-attachments/assets/dfc2ac6b-fa1b-4ccd-9d34-eef7bd31a3d0)
+
 9C : Code :
 ```
 #include <iostream>
@@ -118,6 +122,8 @@ int main(){
     cout<<" After increment:" << (void*)ch<<endl;
 }
 ```
+![93](https://github.com/user-attachments/assets/6315a213-a0b7-47c4-b873-88f521403925)
+
 ## Conclusion
 The following are the main things to remember when learning and using C++ pointers:
 
